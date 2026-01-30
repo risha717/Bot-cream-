@@ -104,7 +104,7 @@ async def handle_video_request(update: Update, context: ContextTypes.DEFAULT_TYP
             # User is member - send video
             try:
                 # Forward message from channel
-                await context.bot.forward_message(
+                await context.bot.copy_message(
                     chat_id=chat_id,
                     from_chat_id=CHANNEL_ID,
                     message_id=int(video_id)
