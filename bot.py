@@ -11,7 +11,7 @@ from telegram.ext import (
 )
 
 # ===================== CONFIGURATION =====================
-BOT_TOKEN = "8006015641:AAHMiqhkmtvRmdLMN1Rbz2EnwsIrsGfH8qU"
+BOT_TOKEN = "8564742601:AAE443rYAWxLmIITweoGWNSlXD7nXvne4Fo"
 CHANNEL_ID = -1003872857468  # আপনার চ্যানেল ID
 CHANNEL_USERNAME = "@Cinaflixsteem"  # আপনার চ্যানেল username
 ADMIN_ID = 1858324638  # আপনার Telegram User ID
